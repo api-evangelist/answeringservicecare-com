@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-answeringservicecare-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://answeringservicecare.com/
+Answering Service Care provides virtual answering, call handling, and customer support solutions for businesses. The company operates a website at answeringservicecare.com and hosts documentation at https://answeringservicecare.com/docs, indicating a focus on telephony and communication services.
+
+**Areas:** Telephony · CallCenter · VirtualAnswering · CustomerSupport · Communication
+
+## answeringservicecare-com on APIs.io
+
+Everything profiled for answeringservicecare-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/answeringservicecare-com/](https://apis.io/providers/answeringservicecare-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [answeringservicecare-com Batch API](https://apis.io/apis/answeringservicecare-com/answeringservicecare-com-batch-api/) — Several operations in one request, optionally as an async job.
+- [answeringservicecare-com Company API](https://apis.io/apis/answeringservicecare-com/answeringservicecare-com-company-api/) — Who ASC is and how to reach them.
+- [answeringservicecare-com Content API](https://apis.io/apis/answeringservicecare-com/answeringservicecare-com-content-api/) — Search across the site.
+- [answeringservicecare-com Offerings API](https://apis.io/apis/answeringservicecare-com/answeringservicecare-com-offerings-api/) — Services and plan pricing.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Answeringservicecare Com Agentic Access](https://apis.io/agentic-access/answeringservicecare-com/answeringservicecare-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BatchRequest](https://apis.io/schemas/answeringservicecare-com/answeringservicecare-com-batch-request/)
+- [Company](https://apis.io/schemas/answeringservicecare-com/answeringservicecare-com-company/)
+- [JobAccepted](https://apis.io/schemas/answeringservicecare-com/answeringservicecare-com-job-accepted/)
+- [JobResult](https://apis.io/schemas/answeringservicecare-com/answeringservicecare-com-job-result/)
+- [Pricing](https://apis.io/schemas/answeringservicecare-com/answeringservicecare-com-pricing/)
+- [SearchResults](https://apis.io/schemas/answeringservicecare-com/answeringservicecare-com-search-results/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Answeringservicecare Com Context](https://apis.io/jsonld/answeringservicecare-com/answeringservicecare-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Answeringservicecare Com Openapi Overlay](https://apis.io/overlays/answeringservicecare-com/answeringservicecare-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [answeringservicecare-com API Rules](https://apis.io/rules/answeringservicecare-com/answeringservicecare-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Answeringservicecare Com Domain Security](https://apis.io/security/answeringservicecare-com/answeringservicecare-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://answeringservicecare.com/)
+- [Documentation](https://answeringservicecare.com/docs)
+- [API reference](https://answeringservicecare.com/docs)
+
+## API Evangelist rating
+
+**Kin Score 36.5** — thin · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 58.6 |
+| Contract governance | 70.9 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 66.5** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/answeringservicecare-com/](https://apis.io/providers/answeringservicecare-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for answeringservicecare-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/answeringservicecare-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
